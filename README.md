@@ -18,7 +18,7 @@ A MelonLoader mod for automating banana collection in the game **Banana** by Onl
    - Follow the [official MelonLoader installation guide](https://melonwiki.xyz/#/README?id=installing-melonloader).
 
 2. **Download the Mod**:
-   - Clone this repository or download the latest release from the [Releases]([https://github.com/your-repo/releases](https://github.com/xXExilXx/BananaAutoClicker/releases)) page.
+   - Clone this repository or download the latest release from the [Releases](https://github.com/your-repo](https://github.com/xXExilXx/BananaAutoClicker)/releases) page.
 
 3. **Add the Mod**:
    - Place the `BananaAutoClicker.dll` file into the `Mods` folder of your game's directory.
