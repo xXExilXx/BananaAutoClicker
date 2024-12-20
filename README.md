@@ -6,7 +6,6 @@ A MelonLoader mod for automating banana collection in the game **Banana** by Onl
 
 - **Auto Clicker**: Automates the process of collecting bananas in-game.
 - **Toggle On/Off**: Easily toggle the auto-clicker functionality using the `F1` key.
-- **Seamless Integration**: Leverages the **GameManager** for smooth performance and minimal impact on game stability.
 
 ## Requirements
 
@@ -50,13 +49,6 @@ This mod is written in C# and uses the **MelonLoader** framework for integration
   - Initializes upon game start (`OnInitializeMelon` and `OnLateInitializeMelon`).
   - Detects the `GameManager` to interact with the game's banana-collection mechanics.
   - Monitors for `F1` key input to toggle the auto-clicker.
-
-### Assembly Information
-
-```csharp
-[assembly: MelonInfo(typeof(BananaAutoClicker.Core), "BananaAutoClicker", "1.0.5", "Exil_S", null)]
-[assembly: MelonGame("OnlyBananasStudio", "Banana")]
-```
 
 ## Contributing
 
